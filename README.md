@@ -123,16 +123,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Om Gedam
 
-Project Link: [https://github.com/yourusername/paper-folding-website](https://github.com/yourusername/paper-folding-website)
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
 
 ## 📊 Project Status
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/paper-folding-website)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/paper-folding-website)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/paper-folding-website)
-
----
-
-⭐ **If you find this project helpful, please consider giving it a star!** ⭐
