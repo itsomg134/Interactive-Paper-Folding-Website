@@ -1,11 +1,11 @@
-# Interactive-Paper-Folding-Website
-
 # Paper Folding Creations Website
 
 An interactive website that demonstrates the art of paper folding to create useful objects, featuring virtual paper folding simulations and step-by-step crafting tutorials.
 
 ![Paper Folding Creations Preview](https://img.shields.io/badge/Preview-Paper%20Folding-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+<img width="1872" height="3454" alt="image" src="https://github.com/user-attachments/assets/6f3cb31a-50dd-4f53-991f-16f18bd76c4c" />
 
 ## 🎯 Features
 
